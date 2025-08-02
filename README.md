@@ -35,7 +35,7 @@ This repo contains documentation and internal resources used to develop and oper
 
 Stay ahead of the crowd. Be the first to know when a new Snek.Fun token hits the chain.
 
-👉 [**Sign up for instant alerts at funwatcher.io**](https://funwatcher.com)  
+👉 [**Sign up for instant alerts at funwatcher.com**](https://funwatcher.com)  
 You'll get verified mints delivered straight to your inbox—no noise, no delays.
 
 ---
